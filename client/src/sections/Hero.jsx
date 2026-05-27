@@ -44,7 +44,7 @@ function Hero() {
         whileInView={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6, delay: 0.6 }}
         viewport={{ once: true }}
-        className="flex gap-4   justify-start mt-10  "
+        className="flex gap-4 flex-col sm:flex-row  justify-start mt-10  "
       >
         <a
           href="#projects"
