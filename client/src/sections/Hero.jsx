@@ -46,12 +46,12 @@ function Hero() {
         viewport={{ once: true }}
         className="flex gap-4   justify-start mt-10  "
       >
-        <button className=" border border-[#F0EEE8] hover:bg-[#E8C547] hover:border-[#E8C547] hover:text-[#0C0C0C] transition-all px-8 py-4 font-normal">
+        <a href="#projects" className=" border border-[#F0EEE8] hover:bg-[#E8C547] hover:border-[#E8C547] hover:text-[#0C0C0C] transition-all px-8 py-4 font-normal">
           View Work
-        </button>
-        <button className="border border-[#F0EEE8] hover:bg-[#E8C547] hover:border-[#E8C547] hover:text-[#0C0C0C] transition-all px-8 py-4 font-normal">
+        </a>
+        <a href="#contact" className="border border-[#F0EEE8] hover:bg-[#E8C547] hover:border-[#E8C547] hover:text-[#0C0C0C] transition-all px-8 py-4 font-normal">
           Contact Me
-        </button>
+        </a>
       </motion.div>
     </div>
   );

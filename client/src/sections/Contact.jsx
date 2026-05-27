@@ -23,7 +23,7 @@ function Contact() {
     }
     try {
       setLoading(true);
-      await axios.post("http://localhost:5000/api/messages", formData);
+      await axios.post(`${import.meta.env.VITE_API_URL}/api/messages`, formData);
       setSubmitted(true);
 
       setFormData({ name: "", email: "", message: "" });
