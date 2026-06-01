@@ -62,7 +62,7 @@ function Contact() {
                   value={formData.name}
                   id="name"
                   type="text"
-                  placeholder="John Doe"
+                  placeholder="Karan"
                   className="w-full bg-transparent border-b border-[#333333] focus:outline-none focus:border-[#E8C547] py-2 text-[#F0EEE8] transition-colors"
                 />
               </div>
@@ -78,7 +78,7 @@ function Contact() {
                   value={formData.email}
                   id="email"
                   type="text"
-                  placeholder="John Doe"
+                  placeholder="Karan"
                   className="w-full bg-transparent border-b border-[#333333] focus:outline-none focus:border-[#E8C547] py-2 text-[#F0EEE8] transition-colors"
                 />
               </div>

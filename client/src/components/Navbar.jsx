@@ -9,7 +9,7 @@ function Navbar() {
     <nav className="flex justify-between items-center w-full bg-[#0C0C0C] py-4 px-6 md:px-10 fixed top-0 shadow-md z-50 text-[#F0EEE8] text-sm tracking-widest uppercase">
       
       <span className="text-base font-bold tracking-tight normal-case hover:text-[#E8C547] transition-colors">
-        Bhushan Wadikar
+        Karan Telgad
       </span>
 
       {/* Desktop links */}
