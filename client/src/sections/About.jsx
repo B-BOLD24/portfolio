@@ -13,7 +13,7 @@ function About() {
           ABOUT ME
         </div>
         <p className="mt-4 text-lg leading-relaxed">
-          Hi, I'm Bhushan Wadikar — a Computer Engineering student from Pune who
+          Hi, I'm Karan Telgad — a Computer Engineering student from Pune who
           specializes in building full stack web applications with the MERN
           stack, with a growing interest in machine learning and how it can make
           applications smarter.
