@@ -19,7 +19,7 @@ function Hero() {
         viewport={{ once: true }}
         className=" text-5xl md:text-8xl lg:text-9xl  font-black leading-none tracking-tight mt-2"
       >
-        Bhushan Wadikar
+        KARAN TELGAD
       </motion.div>
       <motion.div
         initial={{ opacity: 0, y: 30 }}
